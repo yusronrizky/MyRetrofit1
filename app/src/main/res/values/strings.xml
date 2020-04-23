@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyRetrofit</string>
+    <string-array name="nis">
+        <item>1111</item>
+        <item>1112</item>
+        <item>1113</item>
+        <item>1114</item>
+        <item>1115</item>
+        <item>1116</item>
+        <item>1117</item>
+        <item>1118</item>
+        <item>1119</item>
+        <item>1120</item>
+    </string-array>
+</resources>
